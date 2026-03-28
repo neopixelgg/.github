@@ -1,4 +1,4 @@
-<img width="1600" height="600" alt="Banner" src="https://github.com/user-attachments/assets/b5a249f8-f3be-475c-bf99-6113a1b5c141" />
+<img width="1600" height="600" alt="Banner" src="https://cdn.discordapp.com/attachments/1301350870167978026/1485817150517153812/p4.png?ex=69c8848d&is=69c7330d&hm=fcafddb131f88b60c5cec42b72d7d0ec5545595a2d823a7a0a6673fdb020bee1&" />
 
 # NeoPixel
 
