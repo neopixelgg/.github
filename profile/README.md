@@ -1,4 +1,4 @@
-<img width="1600" height="600" alt="Banner" src="https://cdn.discordapp.com/attachments/1301350870167978026/1485817150517153812/p4.png?ex=69c8848d&is=69c7330d&hm=fcafddb131f88b60c5cec42b72d7d0ec5545595a2d823a7a0a6673fdb020bee1&" />
+<img width="1600" height="600" alt="Banner" src="https://cdn.discordapp.com/attachments/1301350870167978026/1485817150517153812/p4.png?ex=69d4620d&is=69d3108d&hm=a4611c809c73639c3ef46544afc691e6cea3736cec3d62844bfa258182a701ef&" />
 
 # NeoPixel
 
